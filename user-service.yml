@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/user
     username: postgres
-    password: '{cipher}14a7c76d53680cae8c89dfeed4be8c872651acc27ba4b475a05dceefaf2c9475'
+    password: '{cipher}AYA/SDv3QmnSM7JmVoeNA5RSo9Abv2XwQZpQWk1lNl/CrfTUVKJlJeaRQrxuDnAa3aWKYli97Ob6vGY+nhKYqsdLEKJcJzsGvYzV0sOzrWNoDA/81baSWddvNNdc50Z+ezL/RpOco6UNC7C214kKtwI608r6X8DN6wNyuQHlwZLLj+M1C+fgEXjn4E4aDX/sZ3VT9NCk150lri1IEsxBhtEyKwr+IG21bZrUSW2OLu9ewKEh2obyZe2YLVtFnoEx5aTGMvDuVxykbSjEZDraAeJeXBjbp0KWqU0eO50ucY+wqvxcmb9jtZEBc40gCy858Vq19lgoXfqUqSZyweixwo4icPsAY7MH73dLiNOlzIp8HYueXcYxtugGM8b9OkmbnQ3jr0cmk++fmEPznd8BZg2P7V9qT3TPiKdYxk4Uf41IZXJcmmFbtKejwviwUCvaKLfQoihreJXXKlz0m0duh/lgkicynNenRtjJXYJE/lk3mJ/RaepPg6en2oNJG5gG1zxLsJu+23yZPxL/CTgTp9q9B8RDYOsfRfnFi8EE8hD8VQ=='
     driver-class-name: org.postgresql.Driver
 jwt:
   key: ne4hrscEOHxAweirKaQrWuCmxyWDIfCgJT1plxRRvdSvh5CBZRlj7l8fzUk7CXkJc6iLQKsg88vu64Xgh5OiF6HaiBBtk2oUnTdedefault
